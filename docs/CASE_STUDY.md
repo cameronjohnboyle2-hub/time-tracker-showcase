@@ -2,7 +2,7 @@
 
 ## Problem and contribution
 
-A small team needed an English/Khmer workflow for clocking time, reviewing weekly hours and correcting mistakes. Cameron built the original tool with AI assistance and iterated on interval, correction and deletion behavior. This is an operations/product example; AI assistance is not a claim that the application contains an AI model.
+A small team needed an English/Khmer workflow for clocking time, reviewing weekly hours and correcting mistakes. I built the original tool with AI assistance and iterated on interval, correction and deletion behavior. This is an operations/product example; AI assistance is not a claim that the application contains an AI model.
 
 ## Product decisions
 
@@ -18,7 +18,7 @@ The demonstration replaces operational integration with synthetic data and an ex
 
 ## Evidence and limits
 
-The original tool is retired according to Cameron. The demo has regression and browser workflow evidence recorded in `VERIFICATION.md`. Actual team adoption, measured time savings, accessibility acceptance, physical-device installation and full production-security assurance are not established here. The open admin view is intentional in this fictional demo and unsuitable as production authorization.
+I have retired the original tool; its source and operational records remain private. The demo has regression and browser workflow evidence recorded in `VERIFICATION.md`. Actual team adoption, measured time savings, accessibility acceptance, physical-device installation and full production-security assurance are not established here. The open admin view is intentional in this fictional demo and unsuitable as production authorization.
 
 ## Lessons
 
