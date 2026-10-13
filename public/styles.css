@@ -566,3 +566,5 @@ button:disabled {
 .demo-banner p { margin: 0; font-size: 13px; line-height: 1.5; }
 .demo-banner button { flex-shrink: 0; padding: 8px 12px; min-height: 40px; }
 select { font: inherit; width: 100%; min-height: 48px; padding: 10px; border: 1px solid var(--line); border-radius: 8px; color: var(--ink); background: white; }
+
+.demo-copy{min-width:0;max-width:900px}.demo-banner .demo-scope-title{font-weight:750;font-size:14px}.demo-banner p+p{margin-top:6px}@media(max-width:600px){.demo-banner{align-items:flex-start;flex-wrap:wrap}.demo-copy{width:100%}}

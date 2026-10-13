@@ -30,6 +30,8 @@ const translations = {
   en: {
     storageError: "Browser storage is unavailable. Changes will last for this session.",
     resetDemo: "Reset demo",
+    demoScopeTitle: "Mini showcase — NOT the original team tracker",
+    demoScopeDetail: "The original tool handled real team records and remote synchronization. This smaller public version demonstrates selected bilingual clock and administrator workflows with fictional data.",
     demoNotice: "Fictional data only · Changes stay in this browser",
     brand: "Fictional workshop team",
     appTitle: "Time Clock",
@@ -128,6 +130,8 @@ const translations = {
   km: {
     storageError: "មិនអាចរក្សាទុកក្នុងកម្មវិធីរុករកបានទេ។ ការកែប្រែនៅតែក្នុងវគ្គនេះ។",
     resetDemo: "ចាប់ផ្តើមគំរូឡើងវិញ",
+    demoScopeTitle: "គំរូខ្នាតតូច — មិនមែនជាកម្មវិធីកត់ត្រាម៉ោងដើមទេ",
+    demoScopeDetail: "កម្មវិធីដើមគ្រប់គ្រងកំណត់ត្រាពិតរបស់ក្រុម និងការធ្វើសមកាលកម្មពីចម្ងាយ។ គំរូខ្នាតតូចនេះបង្ហាញតែមុខងារកត់ត្រាម៉ោង និងការគ្រប់គ្រងមួយចំនួនជាភាសាអង់គ្លេស និងខ្មែរ ដោយប្រើទិន្នន័យប្រឌិត។",
     demoNotice: "ទិន្នន័យគំរូប៉ុណ្ណោះ · រក្សាទុកតែក្នុងកម្មវិធីរុករកនេះ",
     brand: "ក្រុមសិក្ខាសាលាគំរូ",
     appTitle: "កម្មវិធីកត់ម៉ោងគំរូ",

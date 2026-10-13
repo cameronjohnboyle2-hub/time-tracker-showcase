@@ -1,5 +1,7 @@
 # Team Time Clock
 
+**Mini showcase — NOT the original team tracker.** This small public version demonstrates selected workflows from Cameron’s original AI-assisted bilingual team tool. The original handled real operational records and remote synchronization; its complete operational context, database access and records are not included here. The original is retired and private. This showcase uses only invented workers and browser-local state.
+
 [Try the fictional demo](https://cameronjohnboyle2-hub.github.io/time-tracker-showcase/) · [Architecture](docs/ARCHITECTURE.md) · [Case study](docs/CASE_STUDY.md) · [Verification](docs/VERIFICATION.md)
 
 ![Fictional bilingual time clock](docs/screenshots/demo.jpg)
