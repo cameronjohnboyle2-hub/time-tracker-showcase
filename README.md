@@ -1,6 +1,6 @@
 # Team Time Clock
 
-**Mini showcase — NOT the original team tracker.** This small public version demonstrates selected workflows from Cameron’s original AI-assisted bilingual team tool. The original handled real operational records and remote synchronization; its complete operational context, database access and records are not included here. The original is retired and private. This showcase uses only invented workers and browser-local state.
+**Mini showcase — NOT the original team tracker.** This small public version demonstrates selected workflows from my original AI-assisted bilingual team tool. The original handled real operational records and remote synchronization; its complete operational context, database access and records are not included here. The original is retired and private. This showcase uses only invented workers and browser-local state.
 
 [Try the fictional demo](https://cameronjohnboyle2-hub.github.io/time-tracker-showcase/) · [Architecture](docs/ARCHITECTURE.md) · [Case study](docs/CASE_STUDY.md) · [Verification](docs/VERIFICATION.md)
 
@@ -42,7 +42,7 @@ Open `http://127.0.0.1:4178`. The server binds loopback and serves only `public/
 
 ## Contribution and evidence
 
-Cameron Boyle built the original tool using AI-assisted development to support a team workflow. This demo preserves its bilingual interface and interval/correction logic while separating the portfolio experience from operational data and credentials. Adoption counts and efficiency claims are not established here.
+I built the original tool using AI-assisted development to support a team workflow. This demo preserves its bilingual interface and interval/correction logic while separating the portfolio experience from operational data and credentials. Adoption counts and efficiency claims are not established here.
 
 The included regression suite covers interval handling, saved-state validation, literal rendering of names, deletion, server containment, and release isolation. Browser acceptance results and exact review provenance are recorded separately in the release report; passing logic tests does not establish production access control.
 
